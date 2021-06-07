@@ -1,0 +1,14 @@
+body{
+    height: 93.8vh;
+    background: linear-gradient(227deg,#1c3A2F, #3F837F, #76C2D2);
+   
+}
+.img-border{
+    box-shadow: -20px 17px 17px 0px #3a7974;
+}
+.card-border{
+    box-shadow: -11px 14px 20px 0px #1e3d33;
+}
+.summary{
+    color: white;
+}
